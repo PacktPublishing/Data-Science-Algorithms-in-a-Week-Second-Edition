@@ -1,4 +1,4 @@
-# Data-Science-Algorithms-in-a-Week-Second-Edition
+# Data Science Algorithms in a Week, Second Edition
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/data-science-algorithms-week-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789804546 "><img src="https://www.packtpub.com/sites/default/files/B12375.png" alt="Data Science Algorithms in a Week Second Edition" height="256px" align="right"></a>
 
